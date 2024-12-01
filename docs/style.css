@@ -69,6 +69,7 @@ section img {
 .container_nav .box {
   width: 180px;
   height: 180px;
+  padding: 10px;
 
   background-color: #4d8d37;
   color: white;
